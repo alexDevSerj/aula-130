@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+
+.div_speed{
+    float: left;
+}
+
+.speed{
+    width: 200px;
+    border-radius: 200px;
+}
+
+.div_volume{
+    float: right;
+}
+
+.volume{
+    width: 200px;
+    border-radius: 200px;
+}
+
+canvas{
+    border: 5px solid rgb(235, 25, 217);
+    border-radius: 5px;
+    
+}
